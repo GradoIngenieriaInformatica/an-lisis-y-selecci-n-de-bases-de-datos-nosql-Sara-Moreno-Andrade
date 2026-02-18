@@ -1,1 +1,1 @@
-TIPO | Justificación corta
+GRAFOS | Es la opción más adecuada porque permite modelar relaciones complejas entre usuarios, intereses y eventos, facilitando recorridos y análisis de conexiones indirectas.

@@ -1,1 +1,1 @@
-TIPO | Justificación corta
+DOCUMENTALES | Encaja mejor ya que permite almacenar perfiles con estructura flexible, campos opcionales y cambios frecuentes sin afectar todo el esquema.
